@@ -44,5 +44,5 @@ _prazer me chamo kaique, atualmente estou cursando analise e desenvolvimento de 
 
 ### Skills 👽
 
-![KaiqueVenandi GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueVenandi&show_icons=true&theme=dark)   <img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueVenandi&langs_count=10&layout=compact&theme=dark" />
+![KaiqueVenandi GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique301&show_icons=true&theme=dark)   <img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique301&langs_count=10&layout=compact&theme=dark" />
 </div>
