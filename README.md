@@ -1,5 +1,5 @@
 ## Olá! Me Chamo Kaique ✌🏼
-_Estou estudando programação a um mês! Escolhi essa área por me conciderar uma pessoa criativa. Abaixo meus conhecimentos e o que estou estudando, entre em contando comigo pelo instagram. Crio conteudo da minha joranada no tik tok fique a vontade para dar uma olhada!_ 
+_prazer me chamo kaique, atualmente estou cursando analise e desenvolvimento de sistemas na universidade paranaense UNIPAR.!_ 
 
 ---
 ### Tecnologias 👾
